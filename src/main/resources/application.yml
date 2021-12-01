@@ -1,0 +1,27 @@
+spring:
+  mvc:
+    view:
+      prefix: '/WEB-INF/view/'
+      suffix: '.jsp'
+shop.properties:
+    products:
+    -
+      id: 0
+      title: 'Chocolate'
+      cost: 200.0
+    -
+      id: 1
+      title: 'Milk'
+      cost: 80.5
+    -
+      id: 2
+      title: 'Eggs'
+      cost: 100.0
+    -
+      id: 3
+      title: 'Tea'
+      cost: 120.0
+    -
+      id: 4
+      title: 'Coffee'
+      cost: 250.0
